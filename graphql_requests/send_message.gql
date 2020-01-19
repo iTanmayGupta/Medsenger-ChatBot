@@ -1,0 +1,24 @@
+mutation sendMessage($chatId: ID!, $message: String!, $fileId: Int, $type: MessageType, $priority: Boolean) {
+    chat(chatId: $chatId) {
+        sendMessage(message: $message, type: $type, fileId: $fileId, priority: $priority) {
+            id
+            image
+            attachment {
+                ...AttachmentFragment
+            }
+            message
+            type
+            sender {
+                id
+                username
+            }
+        }
+    }
+}
+
+fragment AttachmentFragment on Attachment {
+    id
+    url
+    mimeType
+    fileName
+}
