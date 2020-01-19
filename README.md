@@ -6,7 +6,7 @@ There is a considerable fraction of the world population that does not have easy
 
 # What It Does:
 
-Feeling discomfort and not being sure of the problem can be problematic if left ignored. Want to save a trip to the general physician? Try Medsenger - A smart human-like chatbot that will help you identify the potential disease(s) you might be suffering from. All you have to do is input your area(s) of discomfort and Messenger will ask you to describe some symptoms that you have been noticing. Our smart algorithms will match your input with our vast database of medical problems and then identify the potential one(s).
+Feeling discomfort and not being sure of the problem can be problematic if left ignored. Want to save a trip to the general physician? Try Medsenger - A smart human-like chatbot that will help you identify the potential disease(s) you might be suffering from. All you have to do is input your area(s) of discomfort and Messenger will ask you to describe some symptoms that you have been noticing. Our smart algorithms will match your input with our vast database of medical problems and then identify the potential one(s)
 
 # How We Built It:
 
